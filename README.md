@@ -1,2 +1,2 @@
 # JungleMaze
-Jungle Maze solver using backtracking algorithm
+Jungle Maze solver using backtracking algorithm in python.
